@@ -1,2 +1,2 @@
 # demo-delta
-delta demo for git tutorial
+delta demo for git tutorial.
